@@ -41,7 +41,7 @@ Após cada um dos passos a seguir, haverá um exemplo de como cada componente po
 
 ### Primeiro Acesso
 
-Acessando a plataforma neste [link](https://desafioebytr.vercel.app/) , você irá encontrar a tela de Login, em que para ter acesso ao acompanhamento das tarefas, você deverá se autenticar. Sem a autenticação você não terá acesso a Home, mas quando autenticado você não terá que fazer o login novamente quando fechar a página e abri-la novamente.
+Acessando a plataforma neste [link](https://desafioebytr.vercel.app/) , você irá encontrar a tela de **Login**, em que para ter acesso ao acompanhamento das tarefas, você deverá se autenticar. Sem a autenticação você não terá acesso a Home, mas quando autenticado você não terá que fazer o login novamente quando fechar a página e abri-la novamente.
 
 <div align="center">
   <img src="./gifs/login.gif" margin="10px" width="700" alt="login"/>
@@ -52,32 +52,39 @@ Acessando a plataforma neste [link](https://desafioebytr.vercel.app/) , você ir
 Para criar uma tarefa, você deve apenas clicar no "+" a direita do título "To Do List". Uma data de prazo já estará configurada para o mesmo dia de criação da tarefa, mas você pode modificá-la.
 
 <div align="center">
-  <img src="./gifs/createTask.gif" margin="10px" width="700" alt="criando uma tarefa"
+  <img src="./gifs/createTask.gif" margin="10px" width="700" alt="criando uma tarefa"/>
 </div>
-  
 
 ### Atualizando uma tarefa
 
-Para criar uma tarefa, você deve apenas clicar no símbolo de edição que possui à direita de cada tarefa. E você pode perceber que a mudança de status vai interferir na barra de progresso.
+Para atualizar uma tarefa, você deve apenas clicar no símbolo de edição à direita de cada tarefa. E você pode perceber que a mudança de status vai interferir na barra de progresso.
 
 <div align="center">
-  <img src="./gifs/updateTask.gif" margin="10px" width="700" alt="atualizando uma tarefa"
+  <img src="./gifs/updateTask.gif" margin="10px" width="700" alt="atualizando uma tarefa"/>
 </div>
   
 ### Excluindo uma tarefa
 
-Para excluir uma tarefa, você deve apenas clicar no símbolo de edição que possui à direita de cada tarefa e logo depois clicar no botão "Remover". E você pode perceber que a mudança de status vai interferir na barra de progresso.
+Para excluir uma tarefa, você deve apenas clicar no símbolo de edição à direita de cada tarefa e logo depois clicar no botão "Remover". E você pode perceber que a mudança de status vai interferir na barra de progresso.
 
 <div align="center">
-  <img src="./gifs/deleteTask.gif" margin="10px" width="700" alt="excluindo uma tarefa"
+  <img src="./gifs/removeTask.gif" margin="10px" width="700" alt="excluindo uma tarefa"/>
+</div>
+
+### Ordenando a Lista de Tarefas
+
+Você pode ordenar a lista de forma alfabética, pelo status e por data de criação clicando nos botões correspondentes.
+
+<div align="center">
+  <img src="./gifs/order.gif" margin="10px" width="700" alt="order a lista"/>
 </div>
 
 ### Digitando a URL de forma errada
 
-Ao digitar a URL do site de forma errada, não se preocupe, vai paracer a página de erro 404 que vai te ajudar a voltar a Home.
+Ao digitar a URL do site de forma errada, não se preocupe, vai paracer a página de erro 404 que vai te ajudar a voltar a **Home**.
 
 <div align="center">
-  <img src="./gifs/404.gif" margin="10px" width="700" alt="erro 404"
+  <img src="./gifs/404.gif" margin="10px" width="700" alt="erro 404"/>
 </div>
   
 ### Realizando o *Logout*
@@ -87,3 +94,8 @@ Para se desconectar da sua conta, só é necessário clicar em seu nome no NavBa
 <div align="center">
   <img src="./gifs/logout.gif" margin="10px" width="700" alt="saindo da plataforma"
 </div>
+
+## Link para o deploy da Plataforma:
+https://desafioebytr.vercel.app/
+
+OBS:Lembrando que para acessar a plataforma deve possuir um cadastro no banco de dados.
