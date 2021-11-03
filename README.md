@@ -21,6 +21,7 @@ Esse desafio foi proposto pela [Trybe](https://www.betrybe.com/), em que requisi
   - [Ordenando a Lista de Tarefas](#ordenando-a-lista-de-tarefas)
   - [Digitando a URL de forma errada](#digitando-a-url-de-forma-errada)
   - [Realizando o *Logout*](#realizando-o-logout)
+  - [Acessando pelo celular](#acessando-pelo-celular)
 - [Link para o deploy da Plataforma](#link-para-o-deploy-da-plataforma)
 ---
 
