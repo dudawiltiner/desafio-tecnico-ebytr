@@ -8,7 +8,7 @@
 *"Você foi a pessoa contratada para desenvolver um sistema capaz de **auxiliar as pessoas colaboradoras a se organizar e ter mais produtividade**.
 Na Ebytr o time de desenvolvimento utiliza a **Stack MERN** para criar suas aplicações. Foi combinado com a Ebytr que você utilizará essa mesma Stack para resolver o problema de organização e produtividade da empresa."*
 
-Abaixo estão (i) os requisitos técnicos, (ii) as funcionalidades que a solução deve possuir:
+Abaixo estão os requisitos técnicos e as funcionalidades que a solução deve possuir:
 
 ### Requisitos técnicos :white_check_mark::
 
@@ -25,7 +25,7 @@ Abaixo estão (i) os requisitos técnicos, (ii) as funcionalidades que a soluç�
 - [x] Atualizar uma tarefa da lista;
 - [x] A tarefa deve possuir um status editável: pendente, em andamento ou pronto;
 
-# Solução - Entregáveis
+# Solução do Desafio - Entregáveis
 
 Para entregar a solução desafio foi necessário separar as duas partes de front-end e back-end em **cada um destes** repositórios:
 
@@ -38,6 +38,8 @@ Para entregar a solução desafio foi necessário separar as duas partes de fron
 ## Usando a plataforma Ebytr - To Do List
 
 ### Clone do repositório
+
+
 
 Após cada um dos passos a seguir, haverá um exemplo do comando a ser digitado para fazer o que está sendo pedido, caso tenha dificuldades e o exemplo não seja suficiente, não hesite em me contatar em _eduardawiltiner@gmail.com_.
 
