@@ -7,7 +7,7 @@ Esse desafio foi proposto pela [Trybe](https://www.betrybe.com/), em que requisi
 
 ---
 
-# Sumário
+## Sumário
 
 - [Contexto do *Case*](#contexto-do-case)
   - [Requisitos técnicos](#requisitos-técnicos)
