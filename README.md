@@ -1,5 +1,28 @@
 
-# Desafio Front-End - Ebytr
+# Desafio Ebytr - To Do List
+
+## Boas vindas ao repositório do Desafio Técnico - Caso da empres Ebytr
+
+Esse desafio foi proposto pela Trybe, em que requisita habilidades e ferramentas necessáiras para desenvolver um projeto **Full Stack**. O resultado final é uma plataforma para **organização e acompanhamento das tarefas** pelos colaboradores, salvando dados num banco de dados **NoSQL**.
+
+---
+
+# Sumário
+
+- [Contexto do *Case*](#contexto-do-case)
+  - [Requisitos técnicos](#requisitos-técnicos)
+  - [Funcionalidades](#funcionalidades)
+- [Entregáveis](#entregáveis)
+- [Usando a plataforma](#usando-a-plataforma)
+  - [Primeiro Acesso](#primeiro-acesso)
+  - [Criando uma tarefa](#criando-uma-tarefa)
+  - [Atualizando uma tarefa](#atualizando-uma-tarefa)
+  - [Excluindo uma tarefa](#excluindo-uma-tarefa)
+  - [Ordenando a Lista de Tarefas](#ordenando-a-lista-de-tarefas)
+  - [Digitando a URL de forma errada](#digitando-a-url-de-forma-errada)
+  - [Realizando o *Logout*](#realizando-o-logout)
+- [Link para o deploy da Plataforma](#link-para-o-deploy-da-plataforma)
+---
 
 ## Contexto do *Case*
 
@@ -10,13 +33,13 @@ Na Ebytr o time de desenvolvimento utiliza a **Stack MERN** para criar suas apli
 
 Abaixo estão os requisitos técnicos e as funcionalidades que a solução deve possuir:
 
-### Requisitos técnicos :white_check_mark::
+### Requisitos técnicos
 
 - [x] Front-End em React;
 - [x] Back-End em NodeJS, com MongoDB;
 - [x] Arquitetura em camadas;
 
-### Funcionalidades :white_check_mark::
+### Funcionalidades
 
 - [x] Visualizar a lista de tarefas;
 - [x] Esta lista deve ser ordenável por ordem alfabética, data de criação ou por status;
@@ -25,7 +48,7 @@ Abaixo estão os requisitos técnicos e as funcionalidades que a solução deve 
 - [x] Atualizar uma tarefa da lista;
 - [x] A tarefa deve possuir um status editável: pendente, em andamento ou pronto;
 
-## Solução do Desafio - Entregáveis
+## Entregáveis
 
 Para entregar a solução desafio foi necessário separar as duas partes de front-end e back-end em **cada um destes** repositórios:
 
@@ -35,7 +58,7 @@ Para entregar a solução desafio foi necessário separar as duas partes de fron
 
 ---
 
-## Usando a plataforma Ebytr - To Do List
+## Usando a plataforma
 
 Após cada um dos passos a seguir, haverá um exemplo de como cada componente pode ser usado, caso tenha dificuldades e o exemplo não seja suficiente, não hesite em me contatar em _eduardawiltiner@gmail.com_.
 
@@ -92,7 +115,7 @@ Ao digitar a URL do site de forma errada, não se preocupe, vai paracer a págin
 Para se desconectar da sua conta, só é necessário clicar em seu nome no NavBar e em seguida em "Sair".
 
 <div align="center">
-  <img src="./gifs/logout.gif" margin="10px" width="700" alt="saindo da plataforma"
+  <img src="./gifs/logout.gif" margin="10px" width="700" alt="saindo da plataforma" />
 </div>
 
 ## Link para o deploy da Plataforma:
