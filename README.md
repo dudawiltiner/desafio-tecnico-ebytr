@@ -16,7 +16,7 @@ Abaixo estão os requisitos técnicos e as funcionalidades que a solução deve 
 - [x] Back-End em NodeJS, com MongoDB;
 - [x] Arquitetura em camadas;
 
-### Funcionalidades:
+### Funcionalidades :white_check_mark::
 
 - [x] Visualizar a lista de tarefas;
 - [x] Esta lista deve ser ordenável por ordem alfabética, data de criação ou por status;
