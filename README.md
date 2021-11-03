@@ -25,7 +25,7 @@ Abaixo estão os requisitos técnicos e as funcionalidades que a solução deve 
 - [x] Atualizar uma tarefa da lista;
 - [x] A tarefa deve possuir um status editável: pendente, em andamento ou pronto;
 
-# Solução do Desafio - Entregáveis
+## Solução do Desafio - Entregáveis
 
 Para entregar a solução desafio foi necessário separar as duas partes de front-end e back-end em **cada um destes** repositórios:
 
