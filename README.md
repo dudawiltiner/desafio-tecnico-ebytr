@@ -44,7 +44,7 @@ Após cada um dos passos a seguir, haverá um exemplo de como cada componente po
 Acessando a plataforma neste [link](https://desafioebytr.vercel.app/) , você irá encontrar a tela de Login, em que para ter acesso ao acompanhamento das tarefas, você deverá se autenticar. Sem a autenticação você não terá acesso a Home, mas quando autenticado você não terá que fazer o login novamente quando fechar a página e abri-la novamente.
 
 <div align="center">
-  <img src="./gifs/login.gif" margin="10px" width="800" alt="login"/>
+  <img src="./gifs/login.gif" margin="10px" width="700" alt="login"/>
 </div>
 
 ### Craiando uma tarefa
@@ -52,5 +52,5 @@ Acessando a plataforma neste [link](https://desafioebytr.vercel.app/) , você ir
 Acessando a plataforma neste, você irá encontrar a tela de Login, em que para ter acesso ao acompanhamento das tarefas, você deverá se autenticar. Sem a autenticação você não terá acesso a Home, mas quando autenticado você não terá que fazer o login novamente quando fechar a página e abri-la novamente.
 
 <div align="center">
-  <img src="./gifs/createTask.gif" margin="10px" width="800" alt="criando uma tarefa"
+  <img src="./gifs/createTask.gif" margin="10px" width="700" alt="criando uma tarefa"
 </div>
