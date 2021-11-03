@@ -12,18 +12,18 @@ Abaixo estão (i) os requisitos técnicos, (ii) as funcionalidades que a soluç�
 
 ### Requisitos técnicos :white_check_mark::
 
-[x] Front-End em React;
-[x] Back-End em NodeJS, com MongoDB;
-[x] Arquitetura em camadas;
+- [x] Front-End em React;
+- [x] Back-End em NodeJS, com MongoDB;
+- [x] Arquitetura em camadas;
 
 ### Funcionalidades:
 
-[x] Visualizar a lista de tarefas;
-[x] Esta lista deve ser ordenável por ordem alfabética, data de criação ou por status;
-[x] Inserir uma nova tarefa na lista;
-[x] Remover uma tarefa da lista;
-[x] Atualizar uma tarefa da lista;
-[x] A tarefa deve possuir um status editável: pendente, em andamento ou pronto;
+- [x] Visualizar a lista de tarefas;
+- [x] Esta lista deve ser ordenável por ordem alfabética, data de criação ou por status;
+- [x] Inserir uma nova tarefa na lista;
+- [x] Remover uma tarefa da lista;
+- [x] Atualizar uma tarefa da lista;
+- [x] A tarefa deve possuir um status editável: pendente, em andamento ou pronto;
 
 # Solução - Entregáveis
 
