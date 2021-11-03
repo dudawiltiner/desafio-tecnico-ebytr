@@ -1,9 +1,9 @@
 
 # Desafio Ebytr - To Do List
 
-## Boas vindas ao repositório do Desafio Técnico - Caso da empres Ebytr
+## Boas vindas ao repositório do Desafio Técnico - Caso da empresa Ebytr
 
-Esse desafio foi proposto pela Trybe, em que requisita habilidades e ferramentas necessáiras para desenvolver um projeto **Full Stack**. O resultado final é uma plataforma para **organização e acompanhamento das tarefas** pelos colaboradores, salvando dados num banco de dados **NoSQL**.
+Esse desafio foi proposto pela [Trybe](https://www.betrybe.com/), em que requisita habilidades e ferramentas necessáiras para desenvolver um projeto **Full Stack**. O resultado final é uma plataforma para **organização e acompanhamento das tarefas** pelos colaboradores, salvando dados num banco de dados **NoSQL** através de uma **API RESTFull**.
 
 ---
 
