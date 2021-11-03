@@ -118,6 +118,14 @@ Para se desconectar da sua conta, só é necessário clicar em seu nome no NavBa
   <img src="./gifs/logout.gif" margin="10px" width="700" alt="saindo da plataforma" />
 </div>
 
+### Acessando pelo celular
+
+A plataforma não possui uma versão *mobile*, logo se você tentar usar pelo celular visualizará apenas um aviso sobre isso.
+
+<div align="center">
+  <img src="./gifs/nomobile.gif" margin="10px" width="700" alt="sem versão mobile" />
+</div>
+
 ## Link para o deploy da Plataforma:
 https://desafioebytr.vercel.app/
 
