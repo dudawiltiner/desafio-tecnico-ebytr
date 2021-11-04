@@ -3,7 +3,7 @@
 
 ## Boas vindas ao repositório do Desafio Técnico - Caso da empresa Ebytr
 
-Esse desafio foi proposto pela [Trybe](https://www.betrybe.com/), em que requisita habilidades e ferramentas necessáiras para desenvolver um projeto **Full Stack**. O resultado final é uma plataforma para **organização e acompanhamento das tarefas** pelos colaboradores, salvando dados num banco de dados **NoSQL** através de uma **API RESTFull**.
+Esse desafio foi proposto pela [Trybe](https://www.betrybe.com/), em que foram requisitadas habilidades e ferramentas necessáiras para desenvolver um projeto **Full Stack**. O resultado final é uma plataforma para **organização e acompanhamento das tarefas** pelos colaboradores, salvando dados num banco de dados **NoSQL** através de uma **API RESTFull**.
 
 ---
 
@@ -51,7 +51,7 @@ Abaixo estão os requisitos técnicos e as funcionalidades que a solução deve 
 
 ## Entregáveis
 
-Para entregar a solução desafio foi necessário separar as duas partes de front-end e back-end em **cada um destes** repositórios:
+Para entregar a solução do desafio foram separaradas as duas partes de front-end e back-end em **cada um destes** repositórios:
 
 - [Repositório com o backend](https://github.com/dudawiltiner/desafio-backend-ebytr).
 
@@ -61,11 +61,11 @@ Para entregar a solução desafio foi necessário separar as duas partes de fron
 
 ## Usando a plataforma
 
-Após cada um dos passos a seguir, haverá um exemplo de como cada componente pode ser usado, caso tenha dificuldades e o exemplo não seja suficiente, não hesite em me contatar em _eduardawiltiner@gmail.com_.
+Após cada um dos passos a seguir, haverá um exemplo de como cada página pode ser usada, caso tenha dificuldades e o exemplo não seja suficiente, não hesite em me contatar em _eduardawiltiner@gmail.com_.
 
 ### Primeiro Acesso
 
-Acessando a plataforma neste [link](https://desafioebytr.vercel.app/) , você irá encontrar a tela de **Login**, em que para ter acesso ao acompanhamento das tarefas, você deverá se autenticar. Sem a autenticação você não terá acesso a Home, mas quando autenticado você não terá que fazer o login novamente quando fechar a página e abri-la novamente.
+Acessando a plataforma neste [link](https://desafioebytr.vercel.app/) , você irá encontrar a tela de **Login**, será onde você deverá se autenticar para ter acesso ao acompanhamento das tarefas. Sem a autenticação você não terá acesso a Home, mas quando autenticado(a) você não terá que fazer o *login* novamente quando fechar a página e abri-la novamente.
 
 <div align="center">
   <img src="./gifs/login.gif" margin="10px" width="700" alt="login"/>
@@ -73,7 +73,7 @@ Acessando a plataforma neste [link](https://desafioebytr.vercel.app/) , você ir
 
 ### Criando uma tarefa
 
-Para criar uma tarefa, você deve apenas clicar no "+" a direita do título "To Do List". Uma data de prazo já estará configurada para o mesmo dia de criação da tarefa, mas você pode modificá-la.
+Para criar uma tarefa, você deve apenas clicar no "+" a direita do título "Lista de Tarefas". Uma data de prazo já estará configurada para o mesmo dia de criação da tarefa, mas você pode modificá-la.
 
 <div align="center">
   <img src="./gifs/createTask.gif" margin="10px" width="700" alt="criando uma tarefa"/>
