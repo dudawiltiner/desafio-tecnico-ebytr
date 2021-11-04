@@ -1,9 +1,9 @@
 
-# Desafio Ebytr - To Do List
+# Desafio Ebytr - *To Do List*
 
 ## Boas vindas ao repositório do Desafio Técnico - Caso da empresa Ebytr
 
-Esse desafio foi proposto pela [Trybe](https://www.betrybe.com/), em que foram requisitadas habilidades e ferramentas necessáiras para desenvolver um projeto **Full Stack**. O resultado final é uma plataforma para **organização e acompanhamento das tarefas** pelos colaboradores, salvando dados num banco de dados **NoSQL** através de uma **API RESTFull**.
+Esse desafio foi proposto pela [Trybe](https://www.betrybe.com/), em que foram requisitadas habilidades necessáiras para desenvolver um projeto **Full Stack**. O resultado final é uma plataforma para **organização e acompanhamento das tarefas** pelos colaboradores da empresa fictícia Ebytr, salvando dados num banco de dados **NoSQL** através de uma **API RESTFull**.
 
 ---
 
@@ -51,7 +51,7 @@ Abaixo estão os requisitos técnicos e as funcionalidades que a solução deve 
 
 ## Entregáveis
 
-Para entregar a solução do desafio foram separaradas as duas partes de front-end e back-end em **cada um destes** repositórios:
+A solução do desafio foi separarada em duas partes: front-end e back-end, e para o controle de versionamento de cada uma delas foram criados os seus respectivos repositórios:
 
 - [Repositório com o backend](https://github.com/dudawiltiner/desafio-backend-ebytr).
 
@@ -65,7 +65,7 @@ Após cada um dos passos a seguir, haverá um exemplo de como cada página pode 
 
 ### Primeiro Acesso
 
-Acessando a plataforma neste [link](https://desafioebytr.vercel.app/) , você irá encontrar a tela de **Login**, será onde você deverá se autenticar para ter acesso ao acompanhamento das tarefas. Sem a autenticação você não terá acesso a Home, mas quando autenticado(a) você não terá que fazer o *login* novamente quando fechar a página e abri-la novamente.
+Acessando a plataforma neste [link](https://desafioebytr.vercel.app/) , você irá encontrar a tela de **Login**, será onde você deverá se autenticar para ter acesso ao acompanhamento das tarefas na página **Home**. Sem a autenticação você não terá acesso a Home, mas quando autenticado(a) você não terá que fazer o *login* novamente quando fechar a página e abri-la depois durante 24h.
 
 <div align="center">
   <img src="./gifs/login.gif" margin="10px" width="700" alt="login"/>
@@ -81,7 +81,7 @@ Para criar uma tarefa, você deve apenas clicar no "+" a direita do título "Lis
 
 ### Atualizando uma tarefa
 
-Para atualizar uma tarefa, você deve apenas clicar no símbolo de edição à direita de cada tarefa. E você pode perceber que a mudança de status vai interferir na barra de progresso.
+Para atualizar uma tarefa, você deve apenas clicar no símbolo de edição à direita de cada tarefa. E você pode perceber que a mudança de status vai interferir na barra de progresso das atividades.
 
 <div align="center">
   <img src="./gifs/updateTask.gif" margin="10px" width="700" alt="atualizando uma tarefa"/>
@@ -89,7 +89,7 @@ Para atualizar uma tarefa, você deve apenas clicar no símbolo de edição à d
   
 ### Excluindo uma tarefa
 
-Para excluir uma tarefa, você deve apenas clicar no símbolo de edição à direita de cada tarefa e logo depois clicar no botão "Remover". E você pode perceber que a mudança de status vai interferir na barra de progresso.
+Para excluir uma tarefa, você deve apenas clicar no símbolo de edição à direita de cada tarefa e, logo depois, clicar no botão "Remover". E você pode perceber que a mudança de status vai interferir diretamente na barra de progresso.
 
 <div align="center">
   <img src="./gifs/removeTask.gif" margin="10px" width="700" alt="excluindo uma tarefa"/>
@@ -113,7 +113,7 @@ Ao digitar a URL do site de forma errada, não se preocupe, vai paracer a págin
   
 ### Realizando o *Logout*
 
-Para se desconectar da sua conta, só é necessário clicar em seu nome no NavBar e em seguida em "Sair".
+Para se desconectar da sua conta, só é necessário clicar em seu nome no NavBar e, em seguida, clicar em "Sair".
 
 <div align="center">
   <img src="./gifs/logout.gif" margin="10px" width="700" alt="saindo da plataforma" />
