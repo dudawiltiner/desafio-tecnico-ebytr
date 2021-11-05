@@ -19,6 +19,7 @@ Esse desafio foi proposto pela [Trybe](https://www.betrybe.com/), em que foram r
   - [Atualizando uma tarefa](#atualizando-uma-tarefa)
   - [Excluindo uma tarefa](#excluindo-uma-tarefa)
   - [Ordenando a Lista de Tarefas](#ordenando-a-lista-de-tarefas)
+  - [Filtrar as tarefas](#filtrar-as-tarefas)
   - [Digitando a URL de forma errada](#digitando-a-url-de-forma-errada)
   - [Realizando o *Logout*](#realizando-o-logout)
   - [Acessando pelo celular](#acessando-pelo-celular)
@@ -101,6 +102,14 @@ Você pode ordenar a lista de forma alfabética, pelo status e por data de cria�
 
 <div align="center">
   <img src="./gifs/order.gif" margin="10px" width="700" alt="order a lista"/>
+</div>
+
+### Filtrar as tarefas
+
+Você pode filtrar as tarefas para aparecer apenas as que estão sob a sua responsabilidade. (recurso implementado recentemente)
+
+<div align="center">
+  <img src="./gifs/filter.gif" margin="10px" width="700" alt="filtro de tarefas"/>
 </div>
 
 ### Digitando a URL de forma errada
